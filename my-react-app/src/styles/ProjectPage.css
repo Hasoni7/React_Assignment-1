@@ -1,0 +1,19 @@
+.project-page {
+  padding-top: 20px;
+}
+
+.preview-button {
+  display: block;
+  margin: 0 auto 30px; /* center + spacing below */
+  padding: 10px 20px;
+  background-color: rgba(5, 3, 117);
+  border: none;
+  color: white;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.preview-button:hover {
+  background-color: rgba(5, 3, 117, 0.5);
+}

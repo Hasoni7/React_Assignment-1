@@ -1,0 +1,29 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Set default font family */
+body {
+  font-family: "Arial", sans-serif;
+  line-height: 1.5;
+}
+
+/* Set default styles for lists */
+ul,
+ol {
+  list-style: none;
+}
+
+/* Remove default link underlines */
+a {
+  text-decoration: none;
+}
+
+/* Remove table spacing */
+table {
+  border-collapse: collapse;
+}

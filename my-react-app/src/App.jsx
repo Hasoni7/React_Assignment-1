@@ -3,6 +3,7 @@ import Navbar from "./Components/Navbar.jsx";
 import Home from "./Pages/Home.jsx";
 import About from "./Pages/About.jsx";
 import ProjectPage from "./Pages/ProjectPage.jsx";
+import "./styles/reset.css";
 
 function App() {
   return (
